@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="322"/>
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hec252180ge0d0g47e7g9731g69894cad91f2" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hcfc1c8afg02b0g4311g9e3dg73e82f0ed8c4" version="1"/>
+          <attribute id="SelectorId" type="FixedString" value="AGtT_Selector_ManagingBreath"/>
+          <attribute id="UUID" type="guid" value="19669597-2265-4189-992f-bbae155e7fc6"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

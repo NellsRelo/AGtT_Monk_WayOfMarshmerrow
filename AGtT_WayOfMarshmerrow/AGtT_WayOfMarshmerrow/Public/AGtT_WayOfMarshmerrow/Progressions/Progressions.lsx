@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="49"/>
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="PassivesAdded" type="LSString" value="CL_MartialArts_MoonlightStrike"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(8872ea32-5b93-4eaf-949b-0876871496d8,3,0,AGtT_Selector_ManagingBreath,Wisdom,46d3d228-04e0-4a43-9a2e-78137e858c14,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="533f8ad7-b0c6-45f3-b34d-324c3f2a821e"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="4"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(3e2996a2-12d3-47fb-883d-47550ae9a12e,2,0,AGtT_Selector_ManagingBreath,Wisdom,46d3d228-04e0-4a43-9a2e-78137e858c14,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="769d0b16-df31-4813-96e6-fe246cf2fa92"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="Selectors" type="LSString" value="AddSpell(a9c54ada-ef2d-4d35-bad0-f3e810ecd189,AGtT_Selector_Severance);SelectSpells(6f29f0e3-df08-48ed-864d-48ced894f88b,1,0,AGtT_Selector_ManagingBreath,Wisdom,46d3d228-04e0-4a43-9a2e-78137e858c14,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="7f59157b-1a0a-4e5a-8d0d-81a24dfc6b6d"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="8"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(3e2996a2-12d3-47fb-883d-47550ae9a12e,2,0,AGtT_Selector_ManagingBreath,Wisdom,46d3d228-04e0-4a43-9a2e-78137e858c14,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="a6ee0d7b-99df-4d43-9cf0-b717af69a746"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="Selectors" type="LSString" value="AddSpell(10bf7d43-8777-47ef-adec-ac1c196875dd,AGtT_Selector_CalmingGaze);"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="cf784d5c-d65f-44ac-938f-a75f1ebce8dd"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(e5cf269d-e2fd-4040-bc03-fc4a2bb884bf,1,0,AGtT_Selector_ManagingBreath,Wisdom,46d3d228-04e0-4a43-9a2e-78137e858c14,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="f78de4b2-0ba2-49b3-8163-b4c942ba2ccf"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
