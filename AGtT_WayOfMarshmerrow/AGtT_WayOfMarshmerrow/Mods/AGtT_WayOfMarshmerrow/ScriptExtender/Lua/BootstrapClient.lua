@@ -9,7 +9,7 @@ if Ext.Mod.IsModLoaded("67fbbd53-7c7d-4cfa-9409-6d737b4d92a9") then
       modGuid = modGuid,
       subClassGuid = subClassGuid,
       class = "monk",
-      subClassName = "Marshmerrow"
+      subClassName = "Claw and Tail"
     }
   }
 
@@ -42,6 +42,5 @@ else
     end
   end
 
-  BootStrap.loadSubClass(Ext.Definition.Get("b60618d1-c262-42b5-9fdd-2c0f7aa5e5af", "Progression").SubClasses)
-  BootStrap.loadSubClass(Ext.Definition.Get("1f5396ad-65e3-4ed5-a339-d76b11af96ea", "Progression").SubClasses)
+  BootStrap.loadSubClass(Ext.Definition.Get("296468cb-3640-4460-9f44-b30ee820a9ed", "Progression").SubClasses)
 end

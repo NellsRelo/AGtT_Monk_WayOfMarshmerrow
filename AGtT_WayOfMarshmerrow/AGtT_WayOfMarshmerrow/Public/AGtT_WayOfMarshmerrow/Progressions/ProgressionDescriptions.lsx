@@ -5,9 +5,10 @@
     <node id="root">
       <children>
         <node id="ProgressionDescription">
-          <attribute id="Description" type="TranslatedString" handle="hec252180ge0d0g47e7g9731g69894cad91f2" version="2"/>
+          <attribute id="Description" type="TranslatedString" handle="hec252180ge0d0g47e7g9731g69894cad91f2" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="hcfc1c8afg02b0g4311g9e3dg73e82f0ed8c4" version="1"/>
-          <attribute id="SelectorId" type="FixedString" value="AGtT_Selector_ManagingBreath"/>
+          <attribute id="SelectorId" type="FixedString" value="CL_WayOfMarshmerrow"/>
+          <attribute id="ProgressionTableId" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
           <attribute id="UUID" type="guid" value="19669597-2265-4189-992f-bbae155e7fc6"/>
         </node>
       </children>
