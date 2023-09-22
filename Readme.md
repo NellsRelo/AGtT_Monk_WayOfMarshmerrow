@@ -1,5 +1,5 @@
 # Adventurer's Guide to Tamriel: Way of Marshmerrow
-[![GitHub release](https://img.shields.io/github/v/tag/NellsRelo/AGtT_Monk-WayOfMarshmerrow?label=Latest%20Version)](https://GitHub.com/NellsRelo/AGtT_Monk-WayOfMarshmerrow/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/NellsRelo/AGtT_Monk-WayOfMarshmerrow/1.0.0/main)](https://GitHub.com/NellsRelo/AGtT_Monk-WayOfMarshmerrow/commit/)
+[![GitHub release](https://img.shields.io/github/v/tag/NellsRelo/AGtT_Monk_WayOfMarshmerrow?label=Latest%20Version)](https://GitHub.com/NellsRelo/NellsRelo/AGtT_Monk_WayOfMarshmerrow/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/NellsRelo/AGtT_Monk_WayOfMarshmerrow/1.0.0/main)](https://GitHub.com/NellsRelo/AGtT_Monk_WayOfMarshmerrow/commit/)
 
 This mod adds the Way of Marshmerrow Monk subclass, as defined in Adventurer's Guide to Tamriel, with tweaks to fit Baldurs' Gate 3.
 
