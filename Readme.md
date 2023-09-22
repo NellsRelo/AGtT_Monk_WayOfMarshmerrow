@@ -46,6 +46,11 @@ They are also able to replace one of their chosen spells with another from the a
 ***Roaring Palms:***
 Upon reaching level 11, Monks are granted a new Reaction. When making an Unarmed Strike against an opponent, you may spend 6 Ki Points to create a zone of silence for 18m around your target. Your target must make a Constitution Saving Throw. If they fail, they will be knocked unconscious. If they succeed, they wil ltake 3d6 Thunder Damage.
 
+## Requirements
+- This mod requires the [Baldur's Gate 2 Script Extender](https://github.com/Norbyte/bg3se/releases/tag/updater-v3).
+- This mod requires the [Baldur's Gate 3 Community Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library/releases) version 2.0.5.0 or above.
+- This mod is best used alongside the [Baldur's Gate 3 Subclass Compatibility Framework](https://github.com/BG3-Community-Library-Team/BG3-Subclass-Compatibility-Framework/releases) version 2.1.0.0 or above.
+
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
 Installations. BG3 Mod Managers is by far the simplest method, and as such is recommended one.
