@@ -53,6 +53,14 @@
           <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
           <attribute id="UUID" type="guid" value="f78de4b2-0ba2-49b3-8163-b4c942ba2ccf"/>
         </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(832e2475-eda3-49ba-aaf6-c90e0812a33d,,Wisdom,46d3d228-04e0-4a43-9a2e-78137e858c14)"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="808ef86f-53b1-44be-ba87-5230a660597e"/>
+        </node>
       </children>
     </node>
   </region>
