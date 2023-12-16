@@ -22,12 +22,26 @@
           <attribute id="UUID" type="guid" value="769d0b16-df31-4813-96e6-fe246cf2fa92"/>
         </node>
         <node id="Progression">
+          <attribute id="Level" type="uint8" value="5"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="405a1199-24e1-4903-a773-f3e92947e499"/>
+        </node>
+        <node id="Progression">
           <attribute id="Level" type="uint8" value="6"/>
           <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
           <attribute id="ProgressionType" type="uint8" value="1"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(a9c54ada-ef2d-4d35-bad0-f3e810ecd189);"/>
           <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
           <attribute id="UUID" type="guid" value="7f59157b-1a0a-4e5a-8d0d-81a24dfc6b6d"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="666b9738-ea6e-4ee7-b24f-3952b899963c"/>
         </node>
         <node id="Progression">
           <attribute id="Level" type="uint8" value="8"/>
@@ -60,6 +74,13 @@
           <attribute id="Selectors" type="LSString" value="AddSpells(832e2475-eda3-49ba-aaf6-c90e0812a33d)"/>
           <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
           <attribute id="UUID" type="guid" value="808ef86f-53b1-44be-ba87-5230a660597e"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="12"/>
+          <attribute id="Name" type="LSString" value="AGtT_Marshmerrow"/>
+          <attribute id="ProgressionType" type="uint8" value="1"/>
+          <attribute id="TableUUID" type="guid" value="c1ae68ca-ea62-4c9d-a684-a51a77a20d03"/>
+          <attribute id="UUID" type="guid" value="31ecbdc4-c481-46f4-923e-ea8061501eea"/>
         </node>
       </children>
     </node>

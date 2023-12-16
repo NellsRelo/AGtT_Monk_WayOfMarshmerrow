@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Marshmarrow Monk Level 3 Default" />
+          <attribute id="Spells" type="LSString" value="Shout_StepOfTheWind_Container;" />
+          <attribute id="UUID" type="guid" value="2d5e6237-a475-403e-a495-426f4b55f518" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Marshmarrow Monk Level 5 Default" />
+          <attribute id="Spells" type="LSString" value="Target_SlowingStrike_Container;" />
+          <attribute id="UUID" type="guid" value="c17e2895-dbee-488b-9fea-2c7a65e6c310" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Marshmarrow Monk Level 9 Default" />
+          <attribute id="Spells" type="LSString" value="Shout_IndomitableSpirit;" />
+          <attribute id="UUID" type="guid" value="25c483a5-2344-4c5d-8dee-1dce6ae3f8a4" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Marshmarrow Monk Level 3" />
+          <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Shout_PatientDefense;Shout_SlowFall;Target_MysticHealing;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;" />
+          <attribute id="UUID" type="guid" value="934bff70-a6ac-4376-8aee-ce7171661158" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Marshmarrow Monk Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Shout_PatientDefense;Shout_SlowFall;Target_MysticHealing;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_StunningStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;" />
+          <attribute id="UUID" type="guid" value="e8d5c39c-a6b0-49f8-b3a8-5e90405554ec" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Marshmarrow Monk Level 9" />
+          <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Shout_PatientDefense;Shout_SlowFall;Target_MysticHealing;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_StunningStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;Shout_AuraSight;Shout_HeavenlyStep;Shout_MantleOfCourtesy;Shout_FriendOfLeafAndBeast;Shout_CommuneWithSelf;Shout_MonasticFortitude;" />
+          <attribute id="UUID" type="guid" value="2242471e-6530-4d7f-aa98-3a47124fefd7" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Marshmarrow Monk Level 11" />
+          <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Shout_PatientDefense;Shout_SlowFall;Target_MysticHealing;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_StunningStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;Shout_AuraSight;Shout_HeavenlyStep;Shout_MantleOfCourtesy;Shout_FriendOfLeafAndBeast;Shout_CommuneWithSelf;Shout_MonasticFortitude;Shout_Tranquility;Shout_TongueOfSunAndMoon;Shout_MysticalIntegrity;Shout_BanishingStrike;Target_ConjurePreviousLife;" />
+          <attribute id="UUID" type="guid" value="ee4e760e-42e2-46f4-af8b-5ddf27a69a72" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
