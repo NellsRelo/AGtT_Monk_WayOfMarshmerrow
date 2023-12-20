@@ -3,9 +3,11 @@
   "Progressions": [
     {
       "UUID": "533f8ad7-b0c6-45f3-b34d-324c3f2a821e",
+      "Comment": "Level 3",
       "Selectors": [
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Step of the Wind - Default Technique",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
@@ -15,6 +17,7 @@
         },
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Select Techniques (3x Level 3 list)",
           "Action": "Insert",
           "Function": "SelectSpells",
           "Params": {
@@ -29,9 +32,11 @@
     },
     {
       "UUID": "769d0b16-df31-4813-96e6-fe246cf2fa92",
+      "Comment": "Level 4",
       "Selectors": [
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Replace Techniques (1x Level 3 List)",
           "Action": "Insert",
           "Function": "SelectSpells",
           "Params": {
@@ -44,11 +49,13 @@
         }
       ]
     },
-    { "Comment": "Need to redo the SelectSpells from level 5 onward",
+    {
       "UUID": "405a1199-24e1-4903-a773-f3e92947e499",
+      "Comment": "Level 5",
       "Selectors": [
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Slowing Strike - Default Technique",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
@@ -61,19 +68,44 @@
     {
       "UUIDs": [
         "405a1199-24e1-4903-a773-f3e92947e499",
-        "7f59157b-1a0a-4e5a-8d0d-81a24dfc6b6d",
-        "666b9738-ea6e-4ee7-b24f-3952b899963c",
-        "f839f34d-e533-4ae7-9f00-4898c34451d0"
+        "666b9738-ea6e-4ee7-b24f-3952b899963c"
       ],
+      "Comment": "Level 5, 7",
       "Selectors": [
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Select Techniques (1x Level 5 list)",
           "Action": "Insert",
           "Function": "SelectSpells",
           "Params": {
             "Guid": "e8d5c39c-a6b0-49f8-b3a8-5e90405554ec",
-            "Amount": "3",
+            "Amount": "1",
             "SwapAmount": "0",
+            "SelectorId": "Techniques",
+            "PrepareType": "AlwaysPrepared"
+          }
+        }
+      ]
+    },
+    {
+      "UUIDs": [
+        "405a1199-24e1-4903-a773-f3e92947e499",
+        "7f59157b-1a0a-4e5a-8d0d-81a24dfc6b6d",
+        "666b9738-ea6e-4ee7-b24f-3952b899963c",
+        "f839f34d-e533-4ae7-9f00-4898c34451d0",
+        "cf784d5c-d65f-44ac-938f-a75f1ebce8dd"
+      ],
+      "Comment": "Level 5, 6, 7, 8, 9",
+      "Selectors": [
+        {
+          "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Replace Techniques (1x Level 5 list)",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "e8d5c39c-a6b0-49f8-b3a8-5e90405554ec",
+            "Amount": "0",
+            "SwapAmount": "1",
             "SelectorId": "Techniques",
             "PrepareType": "AlwaysPrepared"
           }
@@ -82,31 +114,26 @@
     },
     {
       "UUID": "cf784d5c-d65f-44ac-938f-a75f1ebce8dd",
+      "Comment": "Level 9",
       "Selectors": [
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Indomitable Spirit - Default Technique",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
             "Guid": "25c483a5-2344-4c5d-8dee-1dce6ae3f8a4",
             "PrepareType": "AlwaysPrepared"
           }
-        }
-      ]
-    },
-    {
-      "UUIDs": [
-        "cf784d5c-d65f-44ac-938f-a75f1ebce8dd",
-        "f78de4b2-0ba2-49b3-8163-b4c942ba2ccf"
-      ],
-      "Selectors": [
+        },
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Select Techniques (1x Level 9 list)",
           "Action": "Insert",
           "Function": "SelectSpells",
           "Params": {
             "Guid": "2242471e-6530-4d7f-aa98-3a47124fefd7",
-            "Amount": "3",
+            "Amount": "1",
             "SwapAmount": "0",
             "SelectorId": "Techniques",
             "PrepareType": "AlwaysPrepared"
@@ -116,18 +143,58 @@
     },
     {
       "UUIDs": [
-        "808ef86f-53b1-44be-ba87-5230a660597e",
-        "31ecbdc4-c481-46f4-923e-ea8061501eea"
+        "f78de4b2-0ba2-49b3-8163-b4c942ba2ccf",
+        "808ef86f-53b1-44be-ba87-5230a660597e"
       ],
+      "Comment": "Levels 10, 11",
       "Selectors": [
         {
           "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Replace Techniques (1x Level 9 list)",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "2242471e-6530-4d7f-aa98-3a47124fefd7",
+            "Amount": "0",
+            "SwapAmount": "1",
+            "SelectorId": "Techniques",
+            "PrepareType": "AlwaysPrepared"
+          }
+        }
+      ]
+    },
+    {
+      "UUID": "808ef86f-53b1-44be-ba87-5230a660597e",
+      "Comment": "Level 11",
+      "Selectors": [
+        {
+          "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Select Techniques (1x Level 11 list)",
           "Action": "Insert",
           "Function": "SelectSpells",
           "Params": {
             "Guid": "ee4e760e-42e2-46f4-af8b-5ddf27a69a72",
-            "Amount": "3",
+            "Amount": "1",
             "SwapAmount": "0",
+            "SelectorId": "Techniques",
+            "PrepareType": "AlwaysPrepared"
+          }
+        }
+      ]
+    },
+    {
+      "UUID": "31ecbdc4-c481-46f4-923e-ea8061501eea",
+      "Comment": "Level 12",
+      "Selectors": [
+        {
+          "modGuid": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+          "Comment": "Select Techniques (1x Level 11 list)",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "ee4e760e-42e2-46f4-af8b-5ddf27a69a72",
+            "Amount": "0",
+            "SwapAmount": "1",
             "SelectorId": "Techniques",
             "PrepareType": "AlwaysPrepared"
           }
